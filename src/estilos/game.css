@@ -1,0 +1,31 @@
+
+.imagen-juego{
+    height: 100%;
+    width: auto;
+}
+
+.contenedor-juego{
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 3px 13px 1px rgb(0 0 0/ 60%);
+}
+.nombre-juego{
+    font-size: 20px;
+    font-weight: 700;
+}
+.fecha-juego{
+    margin-top: 10px;
+}
+
+.descripcion-juego{
+    font-size: 14px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
